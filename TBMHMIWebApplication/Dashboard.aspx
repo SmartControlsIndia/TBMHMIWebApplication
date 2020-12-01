@@ -47,7 +47,6 @@
             .hide
             {
                 display:none !important;
-                 /*display:none !important;*/
             }
 
  
