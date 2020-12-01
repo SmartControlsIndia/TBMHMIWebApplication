@@ -1,0 +1,35 @@
+12-31-2018 13:37:06   Operator 1 Login 11111
+12-31-2018 13:37:41   Operator 2 Login 123456
+12-31-2018 13:37:45   	 Making Kebware Connection 	
+12-31-2018 13:37:47   	 Kepware Connection build Sucessfully 	
+12-31-2018 13:42:53   Operator 1 Login 11111
+12-31-2018 13:43:10   Operator 2 Login 123456
+12-31-2018 14:58:10   Operator 1 Login 123456
+12-31-2018 14:58:28   Operator 2 Login 11111
+12-31-2018 14:58:31    	 DownTime Start 	 12-31-2018 14:58:31Operator 1844 
+12-31-2018 14:58:34    	 Save DownTime With Resion 	 12-31-2018 14:58:34Operator 1844 
+12-31-2018 15:00:53   Operator 1 Login 11111
+12-31-2018 15:01:12   Operator 2 Login 123456
+12-31-2018 15:01:14    	 DownTime Start 	 12-31-2018 15:01:14Operator 1402 
+12-31-2018 15:01:15    	 Save DownTime With Resion 	 12-31-2018 15:01:15Operator 1402 
+12-31-2018 15:01:25    	 DownTime Start 	 12-31-2018 15:01:25Operator 1402 
+12-31-2018 15:01:57    	 Save DownTime With Resion 	 12-31-2018 15:01:57Operator 1402 
+12-31-2018 15:02:04    	 DownTime Start 	 12-31-2018 15:02:04Operator 1402 
+12-31-2018 15:02:11    	 Save DownTime With Resion 	 12-31-2018 15:02:11Operator 1402 
+12-31-2018 15:04:10   Operator 1 Login 11111
+12-31-2018 15:04:26   Operator 2 Login 123456
+12-31-2018 15:06:32   Operator 1 Login 11111
+12-31-2018 15:07:15   Operator 2 Login 123456
+12-31-2018 16:04:43   Operator 1 Login 11111
+12-31-2018 16:04:58   Operator 2 Login 123456
+12-31-2018 16:05:00   	 Making Kebware Connection 	
+12-31-2018 16:05:02   	 Kepware Connection build Sucessfully 	
+12-31-2018 16:05:14   	 Barcode Scanned 	1234567890
+12-31-2018 16:06:14   	 Cycle Start  	
+12-31-2018 16:06:20    	 Barcode All Ready exist 	 Barcode 1234567890 Receipe 135/70 R12_ULTIMA LXT_65_S_TLOperator 1402 1844 0 Barcode AllReady Exists.
+12-31-2018 16:06:35   	 Barcode Scanned 	1013809968
+12-31-2018 16:06:36    	 Barcode All Ready exist 	 Barcode 1013809968 Receipe 135/70 R12_ULTIMA LXT_65_S_TLOperator 1402 1844 0 Barcode AllReady Exists.
+12-31-2018 16:07:27   	 Cycle Stop  	
+12-31-2018 16:07:42   	 Cycle Start  	
+12-31-2018 16:07:47    	 Data Saved Sucessfully 	 Barcode 1212121212 Receipe 135/70 R12_ULTIMA LXT_65_S_TLOperator 1402 1844 0
+12-31-2018 16:25:04    	 DownTime Start 	 12-31-2018 16:25:04Operator 1402 

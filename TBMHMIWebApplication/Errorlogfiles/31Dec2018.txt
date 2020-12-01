@@ -1,0 +1,10 @@
+Time: 31-12-2018 03:02:50 PM
+-----------------------------------------------------------
+Message: Error converting data type nvarchar to int.
+StackTrace:    at TBMHMIWebApplication.DBConnection.ExecuteScalar(String commandtext) in D:\PROJECTS\BTP PROJECTS\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\App_code\DBConnection.cs:line 95
+   at TBMHMIWebApplication.Tbmreceipedatabase.SaveDownTime() in D:\PROJECTS\BTP PROJECTS\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\App_code\Tbmreceipedatabase.cs:line 133
+   at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\PROJECTS\BTP PROJECTS\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1535
+Source: .Net SqlClient Data Provider
+TargetSite: System.Object ExecuteScalar(System.String)
+-----------------------------------------------------------
+

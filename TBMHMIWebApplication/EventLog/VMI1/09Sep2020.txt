@@ -1,0 +1,100 @@
+9/9/2020 12:06:37   	 checking	
+9/9/2020 12:06:37   	 ConfirmToPLC OPC Connection Starting 	
+9/9/2020 12:06:40   	 Kepware Connection build Sucessfully 	
+9/9/2020 12:06:41   	 checking	
+9/9/2020 12:06:47    	 DownTime Start 	 9/9/2020 12:06:47Operator 893 
+9/9/2020 12:06:50    	 Save DownTime With Resion 	 9/9/2020 12:06:50Operator 893 
+9/9/2020 12:06:51   	 checking	
+9/9/2020 12:07:01    	 DownTime Start 	 9/9/2020 12:07:01Operator 893 
+9/9/2020 12:07:03    	 Save DownTime With Resion 	 9/9/2020 12:07:03Operator 893 
+9/9/2020 12:07:04   	 checking	
+9/9/2020 12:07:14    	 DownTime Start 	 9/9/2020 12:07:14Operator 893 
+9/9/2020 12:07:19    	 Save DownTime With Resion 	 9/9/2020 12:07:19Operator 893 
+9/9/2020 12:07:20   	 checking	
+9/9/2020 12:07:30    	 DownTime Start 	 9/9/2020 12:07:30Operator 893 
+9/9/2020 12:07:33    	 Save DownTime With Resion 	 9/9/2020 12:07:33Operator 893 
+9/9/2020 12:07:34   	 checking	
+9/9/2020 12:07:44    	 DownTime Start 	 9/9/2020 12:07:44Operator 893 
+9/9/2020 12:07:51    	 Save DownTime With Resion 	 9/9/2020 12:07:51Operator 893 
+9/9/2020 12:07:51   	 checking	
+9/9/2020 12:08:00    	 DownTime Start 	 9/9/2020 12:08:00Operator 893 
+9/9/2020 13:04:51   	 checking	
+9/9/2020 13:04:51   	 ConfirmToPLC OPC Connection Starting 	
+9/9/2020 13:04:54   	 Kepware Connection build Sucessfully 	
+9/9/2020 13:05:35   	 checking	
+9/9/2020 13:05:44    	 DownTime Start 	 9/9/2020 13:05:44Operator 1621 
+9/9/2020 13:05:59    	 Save DownTime With Resion 	 9/9/2020 13:05:59Operator 1621 
+9/9/2020 13:05:59   	 checking	
+9/9/2020 13:06:09    	 DownTime Start 	 9/9/2020 13:06:09Operator 1621 
+9/9/2020 13:06:11    	 Save DownTime With Resion 	 9/9/2020 13:06:11Operator 1621 
+9/9/2020 13:06:11   	 checking	
+9/9/2020 13:06:21    	 DownTime Start 	 9/9/2020 13:06:21Operator 1621 
+9/9/2020 13:08:41   	 checking	
+9/9/2020 13:08:54   	 checking	
+9/9/2020 13:10:41   	 checking	
+9/9/2020 13:11:00   	 checking	
+9/9/2020 13:11:12   	 checking	
+9/9/2020 13:11:40   	 checking	
+9/9/2020 13:12:45   	 checking	
+9/9/2020 13:13:03   	 checking	
+9/9/2020 13:17:26   	 checking	
+9/9/2020 13:17:26   	 ConfirmToPLC OPC Connection Starting 	
+9/9/2020 13:17:29   	 Kepware Connection build Sucessfully 	
+9/9/2020 13:17:30   	 checking	
+9/9/2020 13:17:36    	 DownTime Start 	 9/9/2020 13:17:36Operator 893 
+9/9/2020 13:18:47   	 checking	
+9/9/2020 13:19:15   	 checking	
+9/9/2020 13:19:25    	 DownTime Start 	 9/9/2020 13:19:25Operator 1232 
+9/9/2020 13:19:43    	 Save DownTime With Resion 	 9/9/2020 13:19:43Operator 1232 
+9/9/2020 13:19:43   	 checking	
+9/9/2020 13:19:55   	 checking	
+9/9/2020 13:20:06    	 DownTime Start 	 9/9/2020 13:20:06Operator 1232 
+9/9/2020 13:20:08    	 Save DownTime With Resion 	 9/9/2020 13:20:08Operator 1232 
+9/9/2020 13:20:09   	 checking	
+9/9/2020 13:20:19    	 DownTime Start 	 9/9/2020 13:20:19Operator 1232 
+9/9/2020 13:20:20    	 Save DownTime With Resion 	 9/9/2020 13:20:20Operator 1232 
+9/9/2020 13:20:21   	 checking	
+9/9/2020 13:20:31    	 DownTime Start 	 9/9/2020 13:20:31Operator 1232 
+9/9/2020 13:20:35    	 Save DownTime With Resion 	 9/9/2020 13:20:35Operator 1232 
+9/9/2020 13:20:36   	 checking	
+9/9/2020 13:20:46    	 DownTime Start 	 9/9/2020 13:20:46Operator 1232 
+9/9/2020 13:21:04    	 Save DownTime With Resion 	 9/9/2020 13:21:04Operator 1232 
+9/9/2020 13:21:05   	 checking	
+9/9/2020 13:21:12    	 DownTime Start 	 9/9/2020 13:21:12Operator 1232 
+9/9/2020 13:21:18    	 Save DownTime With Resion 	 9/9/2020 13:21:18Operator 1232 
+9/9/2020 13:21:19   	 checking	
+9/9/2020 13:21:29    	 DownTime Start 	 9/9/2020 13:21:29Operator 1232 
+9/9/2020 13:21:33    	 Save DownTime With Resion 	 9/9/2020 13:21:33Operator 1232 
+9/9/2020 13:21:34   	 checking	
+9/9/2020 13:21:44    	 DownTime Start 	 9/9/2020 13:21:44Operator 1232 
+9/9/2020 13:22:04    	 Save DownTime With Resion 	 9/9/2020 13:22:04Operator 1232 
+9/9/2020 13:22:05   	 checking	
+9/9/2020 13:22:18    	 DownTime Start 	 9/9/2020 13:22:18Operator 1232 
+9/9/2020 13:22:18    	 Save DownTime With Resion 	 9/9/2020 13:22:18Operator 1232 
+9/9/2020 13:22:19   	 checking	
+9/9/2020 13:22:29    	 DownTime Start 	 9/9/2020 13:22:29Operator 1232 
+9/9/2020 13:24:04   	 checking	
+9/9/2020 13:25:02   	 checking	
+9/9/2020 13:25:02   	 ConfirmToPLC OPC Connection Starting 	
+9/9/2020 13:25:05   	 Kepware Connection build Sucessfully 	
+9/9/2020 13:25:06   	 checking	
+9/9/2020 13:25:12    	 DownTime Start 	 9/9/2020 13:25:12Operator 1621 
+9/9/2020 13:35:12   	 checking	
+9/9/2020 14:09:20   	 checking	
+9/9/2020 14:09:35   	 checking	
+9/9/2020 14:10:00   	 checking	
+9/9/2020 14:10:12   	 checking	
+9/9/2020 14:13:08   	 checking	
+9/9/2020 14:24:24   	 checking	
+9/9/2020 14:25:28   	 checking	
+9/9/2020 14:25:40   	 checking	
+9/9/2020 14:25:58   	 checking	
+9/9/2020 14:26:18   	 checking	
+9/9/2020 14:26:30   	 checking	
+9/9/2020 14:26:45   	 checking	
+9/9/2020 14:27:07   	 checking	
+9/9/2020 14:27:47   	 checking	
+9/9/2020 14:28:01    	 DownTime Start 	 9/9/2020 14:28:01Operator 1232 
+9/9/2020 14:28:01   	 checking	
+9/9/2020 14:28:01    	 Save DownTime With Resion 	 9/9/2020 14:28:01Operator 1232 
+9/9/2020 14:28:11    	 DownTime Start 	 9/9/2020 14:28:11Operator 1232 

@@ -1,0 +1,13 @@
+9/9/2020 11:55:41   Operator 1 Login 12584
+9/9/2020 12:06:18   Operator 1 Login 12582
+9/9/2020 12:06:34   Operator 2 Login 12584
+9/9/2020 13:05:17   Operator 1 Login 12369
+9/9/2020 13:05:32   Operator 2 Login 12582
+9/9/2020 13:17:11   Operator 1 Login 12582
+9/9/2020 13:17:24   Operator 2 Login 12584
+9/9/2020 13:19:01   Operator 1 Login 12584
+9/9/2020 13:19:13   Operator 2 Login 12582
+9/9/2020 13:24:47   Operator 1 Login 12369
+9/9/2020 13:25:00   Operator 2 Login 12582
+9/9/2020 14:27:32   Operator 1 Login 12584
+9/9/2020 14:27:45   Operator 2 Login 12582

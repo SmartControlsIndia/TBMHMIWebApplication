@@ -1,0 +1,4 @@
+OPCServer_Connected	9/9/2020 12:06:37	OPC Start DATA	OPCServerGroup	-
+OPCServer_Connected	9/9/2020 13:04:51	OPC Start DATA	OPCServerGroup	-
+OPCServer_Connected	9/9/2020 13:17:26	OPC Start DATA	OPCServerGroup	-
+OPCServer_Connected	9/9/2020 13:25:02	OPC Start DATA	OPCServerGroup	-

@@ -1,0 +1,368 @@
+Time: 09/09/2020 01:04:55 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:08:41 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:08:51 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:08:54 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:09:04 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:10:41 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:10:51 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:11:00 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:11:10 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:11:12 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:11:22 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:11:40 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:11:50 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:12:45 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:12:55 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:13:03 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:18:47 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:24:03 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:35:11 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 01:35:22 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:09:19 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:09:30 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:09:35 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:09:45 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:09:59 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:10:10 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:10:12 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:10:22 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:13:07 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:13:18 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:24:23 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:24:34 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:25:28 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:25:38 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:25:40 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:25:50 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:25:58 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:26:08 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:26:18 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:26:28 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:26:30 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:26:40 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:26:44 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:26:55 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:27:07 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTimeOK(String wcname, String resionid, String save) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1539
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTimeOK(System.String, System.String, System.String)
+-----------------------------------------------------------
+
+Time: 09/09/2020 02:27:17 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at TBMHMIWebApplication.TbmActionPerform.SaveDownTime(String wcname, String resionid) in D:\SARITA_UPDATE_CODE\BTP_CT_1115\TBMHMIProject\TBMHMIWebApplication\TBMHMIWebApplication\TbmActionPerform.asmx.cs:line 1577
+Source: TBMHMIWebApplication
+TargetSite: System.String SaveDownTime(System.String, System.String)
+-----------------------------------------------------------
+

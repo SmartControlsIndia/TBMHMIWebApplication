@@ -1,0 +1,2 @@
+wcName,ItemName,ItemAddress
+VMI1,VMI1_cyclestart,VMI1.VMI1.startstop,VMI1_Interlock,VMI1.VMI1.INTERLOCK,VMI1_Ok,VMI1.VMI1.OK,VMI1_Nok,VMI1.VMI1.NOK,VMI1_Recipe,VMI1.VMI1.Recipe,VMI1_Recipe12,VMI1.VMI1.Recipe12

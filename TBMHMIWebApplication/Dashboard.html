@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>TBM Application Dashboard</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href=".//assets/css/bootstrap.css" />
+        <link rel="stylesheet" href=".//assets/css/style.css" />
+        <script src=".//Scripts/jquery-1.10.2.min.js"></script>
+        <script src=".//Scripts/bootstrap.min.js"></script>
+    </head>
+    <body class="bgcolorBlue">
+
+        <div class="row header">
+
+            <div class="col-sm-12">
+
+                <div class="logo col-sm-2">
+                    <img alt="Smart Logo" src=".//assets/images/tbm_app/New Logo.png" />
+                </div>
+
+                <div class="col-sm-8">
+                   
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="javascript:;" data-toggle="modal" data-target="#logoutModal" data-backdrop="static" data-keyboard="false" class="dropdown-toggle" data-toggle="dropdown">
+                                <div class="logout-panel">
+                                    <img src=".//assets/images/tbm_app/default-user-img.jpg" alt="Profile Pic" />
+                                    <span>Operator 1</span>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;" data-toggle="modal" data-target="#logoutModal" data-backdrop="static" data-keyboard="false" class="dropdown-toggle" data-toggle="dropdown">
+                                <div class="logout-panel">
+                                    <img src=".//assets/images/tbm_app/default-user-img.jpg" alt="Profile Pic" />
+                                    <span>Operator 2</span>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:;" data-toggle="modal" data-target="#logoutModal" data-backdrop="static" data-keyboard="false" class="dropdown-toggle" data-toggle="dropdown">
+                                <div class="logout-panel">
+                                    <img src=".//assets/images/tbm_app/default-user-img.jpg" alt="Profile Pic" />
+                                    <span>Operator 3</span>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+
+                </div>
+
+                <div class="jklogo col-sm-2">
+                    <img alt="JK Logo" src=".//assets/images/tbm_app/jkLogo.png" />
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="common-box col-sm-offset-1 col-sm-10 col-sm-offset-1">
+
+                <div class="col-sm-9">
+                    <form onsubmit="return false;" class="form-horizontal" id="tbmForm" method="post">
+                        <div class="form-group">
+                            <label class="col-sm-6 big-font">Work Center Name</label>
+                            <label class="col-sm-6 text-danger big-font">3401</label>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-6 big-font">Recipe Code</label>
+                            <label class="col-sm-6 big-font">RJ20300008888888</label>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-6 big-font">Barcode</label>
+                            <div class="col-sm-6 big-font">
+                                <input type="text" style="width: 150px;" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <button data-toggle="modal" data-target="#msgModal" data-backdrop="static" data-keyboard="false" class="btn btn-info marginLeft15px marginRight15px big-btn" type="button">OK</button>
+                            <button data-toggle="modal" data-target="#msgModal" data-backdrop="static" data-keyboard="false" class="btn btn-danger marginRight15px marginRight15px big-btn" type="button">NOT OK</button>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="col-sm-3" id="carImageBox">
+                    <img src=".//assets/images/tbm_app//maruti.jpg" class="img-thumbnail" alt="Image Preview">
+                </div>
+
+                <div class="clearfix"></div>
+
+                <div class="col-sm-offset-2 col-sm-8 col-sm-offset-2" id="chartBox">
+                    <img src=".//assets/images/tbm_app//Charts.png" class="img-thumbnail" alt="Chart Preview">
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Message Modal -->
+        <div id="msgModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Message Title</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>Message Content.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Logout Modal -->
+        <div id="logoutModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title"><span class="glyphicon glyphicon-lock"></span> Logout to your Account</h4>
+                    </div>
+                    <div class="modal-body">
+                        <form method="post" id="Login-Form" role="form">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <label>Operator Name</label>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <div class="input-group-addon"><span class="glyphicon glyphicon-lock"></span></div>
+                                    <input name="password" id="login-password" type="password" class="form-control input-lg" placeholder="Enter Password" required="">
+                                </div>
+                            </div>
+                            <button type="button" class="btn btn-info btn-block btn-lg">LOGOUT</button>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </body>
+</html>
